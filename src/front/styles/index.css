@@ -1,3 +1,13 @@
-/* 
-    General Styles used on every website (Don't Repeat Yourself)
-*/
+@import url("https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap");
+
+.navbarColor {
+  background-color: #5400a3;
+}
+
+body {
+  background-color: #5400a3;
+  font-family: "Dongle", sans-serif;
+  margin: auto;
+  padding-top: 7rem;
+  position: relative;
+}
